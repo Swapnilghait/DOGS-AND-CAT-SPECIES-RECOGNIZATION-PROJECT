@@ -40,3 +40,8 @@ This section demonstrates how to make predictions on individual images using the
 
 Conclusion
 In conclusion, the project's findings are summarized, including an assessment of the model's performance and any challenges encountered during development. Suggestions for future improvements or extensions are considered to enhance the model's capabilities.
+
+Google Colab Sharing
+To access the Google Colab notebook used in this project, you can find them on the following links:
+
+Google Colab Notebook : https://drive.google.com/drive/folders/1gMgE0pOREiQxCnB3q8HNvuM-NVS5MCLH?usp=sharing
