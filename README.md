@@ -1,7 +1,5 @@
 # DOGS-AND-CAT-SPECIES-RECOGNIZATION-PROJECT
 
-# Dog and Cat Recognition Project :
-
 **Introduction**
 The Dog and Cat Recognition project aims to develop a machine learning model capable of accurately classifying images as either dogs or cats. This documentation provides an overview of the project components, methodologies used, and insights gained throughout the development process.
 
