@@ -1,4 +1,4 @@
-### DOGS-AND-CAT-SPECIES-RECOGNITION-PROJECT
+# DOGS-AND-CAT-SPECIES-RECOGNITION-PROJECT
 Introduction
 The Dog and Cat Recognition project is designed to develop a robust machine learning model for classifying images as either dogs or cats. This documentation provides a comprehensive overview of the project, including key components, methodologies, and insights gained during development.
 
@@ -44,4 +44,4 @@ In conclusion, the project's findings are summarized, including an assessment of
 Google Colab Sharing
 To access the Google Colab notebook used in this project, you can find them on the following links:
 
-Google Colab Notebook : https://drive.google.com/drive/folders/1gMgE0pOREiQxCnB3q8HNvuM-NVS5MCLH?usp=sharing
+Google Colab Notebook : https://drive.google.com/file/d/1DmRaUymvOsSKJ8yxLVYNAIBhrzgb4pSC/view?usp=sharing
